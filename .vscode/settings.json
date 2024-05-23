@@ -1,6 +1,0 @@
-{
-    "yaml.schemas": {
-        "file:///Users/orherzog/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
-        "kubernetes://schema/v1@pod": "file:///Users/orherzog/Desktop/Github/CKA/pods/pod-definition.yaml"
-    }
-}
